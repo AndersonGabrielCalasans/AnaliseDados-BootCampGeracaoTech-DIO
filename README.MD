@@ -6,5 +6,5 @@ Nele está contido as atividades práticas desenvolvidas no BootCamp Geração T
 
 Para você se guiar dentro do repositório:
 
-1- [Introdução sobre Pandas e MatPlotLib](https://github.com/AndersonGabrielCalasans/AnaliseDados-BootCampGeracaoTech-DIO/blob/master/introducao_pandas.ipynb)
-2- [Atividade de Projeto - Análise de dados com Python e Pandas](https://github.com/AndersonGabrielCalasans/AnaliseDados-BootCampGeracaoTech-DIO/blob/master/analise_exploratoria_DIO.ipynb)
+1. [Introdução sobre Pandas e MatPlotLib](https://github.com/AndersonGabrielCalasans/AnaliseDados-BootCampGeracaoTech-DIO/blob/master/introducao_pandas.ipynb)
+2. [Atividade de Projeto - Análise de dados com Python e Pandas](https://github.com/AndersonGabrielCalasans/AnaliseDados-BootCampGeracaoTech-DIO/blob/master/analise_exploratoria_DIO.ipynb)
