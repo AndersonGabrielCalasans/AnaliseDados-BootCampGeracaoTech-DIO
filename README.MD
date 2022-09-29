@@ -16,7 +16,7 @@ Foram desenvolvidas atividades com foco em no aprendizado daa linguagens Python 
 
 
 **Atividades práticas:**
-1. [Desafio de código inicial](https://github.com/AndersonGabrielCalasans/AnaliseDados-BootCampGeracaoTech-DIO/tree/master/Desafio_de_codigo_inicial\)
+1. [Desafio de código inicial](https://github.com/AndersonGabrielCalasans/AnaliseDados-BootCampGeracaoTech-DIO/tree/master/Desafio_de_codigo_inicial)
 2. [Desafio de código intermediário](https://github.com/AndersonGabrielCalasans/AnaliseDados-BootCampGeracaoTech-DIO/tree/master/Desafio_de_codigo_intermediario)
 3. [Atividade de Projeto - Análise de dados com Python e Pandas](https://github.com/AndersonGabrielCalasans/AnaliseDados-BootCampGeracaoTech-DIO/blob/master/analise_exploratoria_DIO.ipynb)
 
