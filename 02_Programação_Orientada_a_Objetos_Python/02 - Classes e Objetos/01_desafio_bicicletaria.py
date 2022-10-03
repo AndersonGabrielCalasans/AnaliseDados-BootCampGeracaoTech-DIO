@@ -1,5 +1,5 @@
 class Bicicleta:
-    def __init__(self, cor, modelo, ano, valor):
+    def __init__(self, cor, modelo, ano, valor): #método construtor
         self.cor = cor
         self.modelo = modelo
         self.ano = ano
@@ -15,6 +15,7 @@ class Bicicleta:
     def correr(self):
         print("Vrummmmm...")
 
+# Código para representação de classe
     def __str__(self):
         return f"{self.__class__.__name__}: {', '.join([f'{chave}={valor}' for chave, valor in self.__dict__.items()])}"
 

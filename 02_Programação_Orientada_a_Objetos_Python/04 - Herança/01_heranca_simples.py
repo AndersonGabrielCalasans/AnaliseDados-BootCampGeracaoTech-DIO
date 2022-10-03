@@ -14,10 +14,8 @@ class Veiculo:
 class Motocicleta(Veiculo):
     pass
 
-
 class Carro(Veiculo):
     pass
-
 
 class Caminhao(Veiculo):
     def __init__(self, cor, placa, numero_rodas, carregado):
